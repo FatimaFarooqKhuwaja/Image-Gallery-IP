@@ -1,10 +1,10 @@
 import React from 'react'
-import ImageGallery from './Components/ImageGallery'
+import Hero from "./Components/Hero"
 const page = () => {
   return (
     <div>
      
-      <ImageGallery />
+      <Hero />
       <h1 className='text-center text-gray-500'> Made by Fatima Farooq Khuwaja</h1>
     </div>  
   )
